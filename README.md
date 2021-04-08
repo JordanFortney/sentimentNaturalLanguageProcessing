@@ -1,1 +1,1 @@
-# emotionsNaturalLanguageProcessing
+# sentimentNaturalLanguageProcessing
