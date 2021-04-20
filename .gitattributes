@@ -1,2 +1,4 @@
-*.joblib
+*.joblib filter=lfs diff=lfs merge=lfs -text
  filter=lfs diff=lfs merge=lfs -text
+svcVecNlp.joblib filter=lfs diff=lfs merge=lfs -text
+svcIdfNlp.joblib filter=lfs diff=lfs merge=lfs -text
