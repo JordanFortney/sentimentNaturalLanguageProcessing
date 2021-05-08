@@ -127,5 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-generic_sentiment_dataset_10k.csv
-reviewMasterList.txt
+negReviewList.txt
+posReviewList.txt
